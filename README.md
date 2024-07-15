@@ -1,2 +1,2 @@
+ https://priths24.github.io/Quiz-Website/
 
-http://127.0.0.1:5500/Quiz/index.html
